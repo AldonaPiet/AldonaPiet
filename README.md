@@ -8,7 +8,7 @@ I decided to become a tester.
 I passed ISTQB FL exam and now am working to get some practical skills using my knowledge of python through Dare IT challenge: Automatic Tests + Python, using Selenium Webdriver + Python & Robot Framework 
 (<a href="https://www.dareit.io/challenges/wstep-do-testow-automatycznych" >Dare IT Challenge</a>)
 
-I studied physics and I was studying astronomy too. During my studies I took scientific and programming courses. After years of work with people in an international environment, I can tell that I’m advanced in the primary programming language: English 😉.
+I studied physics and I was studying astronomy too. During my studies I took scientific and programming courses. After years of work with people in an international environment, I dare say I’m advanced in the primary programming language: English 😉.
 
 I think that my innate traits and soft skills cultivated over years of my carieer tightly connected to people (office manager), make me good tester to-be.
 I'm well aware that character traits is not enough so I work hard to get more skills that decent tester should have 🙂.
