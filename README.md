@@ -3,18 +3,17 @@ Hi!
 
 I'm Aldona.
 
-I decided to become tester.
+I decided to become a tester.
 
-Currently, to get practical skills, I do Dare IT challenge: Automatic Tests + Python, using Selenium Webdriver + Python & robot framework 
+I passed ISTQB FL exam and now am working to get some practical skills using my knowledge of python through Dare IT challenge: Automatic Tests + Python, using Selenium Webdriver + Python & Robot Framework 
 (<a href="https://www.dareit.io/challenges/wstep-do-testow-automatycznych" >Dare IT Challenge</a>)
 
+I studied physics and I was studying astronomy too. During my studies I took scientific and programming courses. After years of work with people in an international environment, I can tell that I’m advanced in the primary programming language: English 😉.
+
 I think that my innate traits and soft skills cultivated over years of my carieer tightly connected to people (office manager), make me good tester to-be.
-I'm well aware that character traits is not enough so I work hard to get more skills that decent tester should have. 
-I passed ISTQB FL exam and now am working to get some practical skills using my knowledge of python.
+I'm well aware that character traits is not enough so I work hard to get more skills that decent tester should have 🙂.
 
-I studied physics and I was studying astronomy too. During my studies I took scientific and programming courses. After years of work with people in an international environment, I can tell that I’m advanced in the primary programming language: English ;)
-
-I’m a proactive, energetic person with a can do attitude. I’m also assertive team player and believe all problems should be resolved smoothly and diplomatically. 
+I’m a proactive, energetic person with a can do attitude 💪. I’m also assertive team player and believe all problems should be resolved smoothly and diplomatically.
 
 I am looking for the position of junior/trainee tester.
 
