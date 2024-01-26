@@ -11,7 +11,7 @@ I gained my first experience in QA thanks to Dare IT challenges: Automatic  Test
 
 <a href = "https://github.com/AldonaPiet/challengerobotframework"> Robot Framework </a>
 
-I passed ISTQB FL exam and now am working to get some practical skills using my knowledge of Python & Robot Framework
+I passed ISTQB FL exam and now am working to get some practical skills using my knowledge of Python & Robot Framework.
 
 During my studies (Physics) I took scientific and programming courses, learned analytical and critical thinking. 
 
@@ -19,7 +19,7 @@ I like getting new knowledge and I have no problem with familiarizing myself wit
 
 I’m a detail-oriented, energetic person with, a can do attitude 💪. I’m also assertive team player and believe all problems should be resolved smoothly and diplomatically.
 
-I think that my innate traits and soft skills cultivated over years of my carieer tightly connected to people (office manager) in an international environment, make me a good tester to-be.
+I think that my innate traits and soft skills cultivated over years of my carieer tightly connected to people in an international environment, make me a good tester to-be.
 I'm well aware that character traits are not enough so I work hard to get more skills that decent tester should have 🙂.
 
 
@@ -52,6 +52,8 @@ I am looking for the position of junior/trainee tester.
 •	Python 3
 
 •	SQL
+
+•	Dare IT Challenge: Automated Testing in Practice
 
 ## ....and privately ⛺
 In my free time I like walking, playing piano or playing with my cat (OK, playing with the cat is a must - she would not let it slide 😉). I also like reading manga, watching anime and asian series. 
