@@ -5,7 +5,11 @@ I'm Aldona.
 
 I decided to become a tester.
 
-I gained my first experience in QA thanks to Dare IT challenges: Automatic  Tests + Python 
+I gained my first experience in QA thanks to Dare IT challenges: Automatic  Tests + Python:
+
+<a href:"https://github.com/AldonaPiet/challenge_portfolio_aldona"> Selenium Webdriver + Python </a>
+
+<a href: "https://github.com/AldonaPiet/challengerobotframework"> Robot Framework </a>
 
 I passed ISTQB FL exam and now am working to get some practical skills using my knowledge of Python & Robot Framework
 
