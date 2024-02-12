@@ -38,6 +38,11 @@ I am looking for the position of junior/trainee tester.
 •	SQL: basic
 
 # 🔨 Other skills
+
+•	Slack
+
+•	Wrike
+
 •	Microsoft 365
 
 •	Google Workspace
