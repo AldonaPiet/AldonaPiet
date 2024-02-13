@@ -3,7 +3,7 @@ Hi!
 
 I'm Aldona.
 
-I decided to become a tester.
+I'm a junior tester.
 
 I gained my first experience in QA thanks to Dare IT challenges: Automatic  Tests + Python:
 
