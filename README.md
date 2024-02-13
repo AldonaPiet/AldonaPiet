@@ -5,7 +5,7 @@ I'm Aldona.
 
 I'm a junior tester.
 
-I gained my first experience in QA thanks to Dare IT challenges: Automatic  Tests + Python, you could find prtfolio here:
+I gained my first experience in QA thanks to Dare IT challenges: Automatic  Tests + Python, you could find portfolio here:
 
 <a href = "https://github.com/AldonaPiet/challenge_portfolio_aldona"> Selenium Webdriver + Python </a>
 
