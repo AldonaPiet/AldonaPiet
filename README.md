@@ -11,7 +11,7 @@ I gained my first experience in QA thanks to Dare IT challenges: Automatic  Test
 
 <a href = "https://github.com/AldonaPiet/challengerobotframework"> Robot Framework </a>
 
-I passed ISTQB FL exam and now am working to get some practical skills using my knowledge of Python & Robot Framework.
+I passed ISTQB FL exam and now am working to get more practical skills using my knowledge of Python & Robot Framework.
 
 During my studies (Physics) I took scientific and programming courses, learned analytical and critical thinking. 
 
